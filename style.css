@@ -1,0 +1,14 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background: linear-gradient(to right, purple, navy);
+    padding: 2rem 0;
+}
+
+body .container{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
